@@ -1,4 +1,4 @@
 # stella3d
-Basic animations on a 3D character with Three.js.
+Animations de base sur un personnage en 3D avec Three.js.
 
-This is my first Three.js project. I created the character and the animations myself with Blender, and then I used Kyle Wetton's 'How to Create an Interactive 3D Character with Three.js' tutorial as a basis to get started. 
+Ceci est mon premier projet en Three.js. J'ai créé le personnage et les animations moi-même avec Blender, et je me suis ensuite basée sur le tutoriel de Kyle Wetton, 'How to Create an Interactive 3D Character with Three.js', pour démarrer.
