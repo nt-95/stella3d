@@ -1,7 +1,8 @@
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
-
+import '../style_index.css'; 
+import gltf from '../3dmodel/stella.glb';
 
 //------------------ MAIN --------------------------------------
 
@@ -30,7 +31,7 @@ function main() {
 
 
   function init() {
-    const MODEL_PATH = '../src/3dmodel/stella.glb';
+    const MODEL_PATH = gltf;
     const canvas = document.querySelector('#c');
     const backgroundColor = 0x001ed1;
 
