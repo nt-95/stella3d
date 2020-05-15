@@ -1,4 +1,4 @@
-import * as THREE from 'https://cdn.rawgit.com/mrdoob/three.js/r85/build/three.min.js';
+import * as THREE from 'https://raw.githubusercontent.com/mrdoob/three.js/dev/build/three.js';
 import { GLTFLoader } from 'https://cdn.rawgit.com/mrdoob/three.js/master/examples/js/loaders/GLTFLoader.js';
 import { OrbitControls } from 'https://cdn.rawgit.com/mrdoob/three.js/r85/examples/js/controls/OrbitControls.js';
 
