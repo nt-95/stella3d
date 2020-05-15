@@ -1,6 +1,6 @@
-import * as THREE from 'three';
-import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
+import * as THREE from 'https://cdnjs.cloudflare.com/ajax/libs/three.js/110/three.min.js';
+import { GLTFLoader } from 'https://threejs.org/examples/js/loaders/GLTFLoader.js';
+import { OrbitControls } from 'https://raw.githubusercontent.com/mrdoob/three.js/dev/examples/jsm/controls/OrbitControls.js';
 
 
 //------------------ MAIN --------------------------------------
