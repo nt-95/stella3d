@@ -30,7 +30,7 @@ function main() {
 
 
   function init() {
-    const MODEL_PATH = '../src/3dmodel/stella.glb';
+    const MODEL_PATH = 'src/3dmodel/stella.glb';
     const canvas = document.querySelector('#c');
     const backgroundColor = 0x001ed1;
 
